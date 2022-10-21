@@ -1,4 +1,4 @@
-This file is to create an EnergyPlus weather file (.epw) from scrath. 
+This file is to create an EnergyPlus weather file (.epw) from scratch. 
 
 The software [Elements](https://bigladdersoftware.com/projects/elements/) is required to create the first empty .epw file, to transform it to a .csv file, and afterwards compile again the final .epw file. The .csv file is edited using Python with the provided script. The data about the location (altitude, latitude, longitude, etc.) is defined within Elements. 
 
